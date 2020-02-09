@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.Form1.resources
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\bin\Debug\operacijeZadatak4.exe.config
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\bin\Debug\operacijeZadatak4.exe
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\bin\Debug\operacijeZadatak4.pdb
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.exe
+C:\Users\Korisnik\source\repos\operacijeZadatak4\operacijeZadatak4\obj\Debug\operacijeZadatak4.pdb
